@@ -64,8 +64,8 @@ To compile and run the shell, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-shell.git
-   cd simple-shell
+   git clone https://github.com/Vimal-Mudalagi/Terminus-Shell.git
+   cd Terminus-Shell
    ```
 
 2. Compile the code:
@@ -97,7 +97,8 @@ make clean
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 
 ## Acknowledgments
 This shell was created as a learning project to practice C programming and system calls in Windows.
