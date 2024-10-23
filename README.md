@@ -66,39 +66,39 @@ To compile and run the shell, follow these steps:
    ```bash
    git clone https://github.com/your-username/simple-shell.git
    cd simple-shell
-   Compile the code:
+   ```
 
-bash
-Copy code
-gcc myshell.c -o myshell
-Run the shell:
+2. Compile the code:
+   ```bash
+   gcc myshell.c -o myshell
+   ```
 
-bash
-Copy code
-./myshell
-If everything is set up correctly, you should see:
+3. Run the shell:
+   ```bash
+   ./myshell
+   ```
+   If everything is set up correctly, you should see:
+   ```bash
+   myshell>
+   ```
+   You can now enter commands like `dir`, `echo Hello`, or `exit` to quit.
 
-bash
-Copy code
-myshell>
-You can now enter commands like dir, echo Hello, or exit to quit.
-
-Using a Makefile (Optional):
+### Using a Makefile (Optional):
 To make compilation easier, you can use the included Makefile.
 
 Compile the program by running:
-
-bash
-Copy code
+```bash
 make
-Clean up the project (remove the compiled files):
+```
 
-bash
-Copy code
+### Clean up the project (remove the compiled files):
+```bash
 make clean
+```
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 This shell was created as a learning project to practice C programming and system calls in Windows.
+
