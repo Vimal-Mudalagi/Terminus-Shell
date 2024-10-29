@@ -1,6 +1,6 @@
 # C Shell Implementation - Code Explanation
 
-This file explains each line of code in the C shell implementation. It describes keywords, functions, and important concepts, along with examples to help understand the code's functionality.
+This file explains each line of code in the C shell implementation. It describes keywords, functions, and important concepts to help understand the code's functionality.
 
 # Code Explanation
 
