@@ -14,6 +14,11 @@ This project is a **Terminus Shell** program written in **C** that simulates a c
 
 The shell continuously runs in a loop, waiting for user input. When a command is entered, the shell parses the input and executes it using the Windows API's `CreateProcess()` function. The program waits for the command to complete before showing the next prompt.
 
+## Full Code Explanation
+
+For a detailed explanation of the code, check out the [CodeExplanation.md](CodeExplanation.md).
+
+
 ### Key Functions:
 - **`fgets()`**: Reads user input from the terminal.
 - **`strtok()`**: Tokenizes the input into commands and arguments.
